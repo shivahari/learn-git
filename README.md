@@ -1,3 +1,3 @@
 # Git tutorial: 
-Use this repository to lean `git` concepts
-Adding new line
+- Use this repository to lean `git` concepts
+- Adding new line
